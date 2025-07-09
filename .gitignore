@@ -1,0 +1,21 @@
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore virtual environments
+.env/
+venv/
+ENV/
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Excel outputs
+*.xlsx
+output_files/
